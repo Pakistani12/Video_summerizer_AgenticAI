@@ -20,3 +20,9 @@ Ensure you have the following installed:
 - Python 3.8+
 
 - Pip (Python package manager)
+## **Install Dependencies**
+```sh
+pip install -r requirements.txt
+```
+
+
