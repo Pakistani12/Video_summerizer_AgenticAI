@@ -24,5 +24,15 @@ Ensure you have the following installed:
 ```sh
 pip install -r requirements.txt
 ```
+## **Technologies Used**
+- **Streamlit**: Frontend framework for building interactive applications
+
+- **Phidata's Agent**: AI-powered agent framework
+
+- **Google Gemini API**: Multimodal AI processing for video analysis
+
+- **DuckDuckGo Search API**: Web search for supplementary information
+
+- **Python**: Backend programming language
 
 
