@@ -11,3 +11,12 @@ Video Summarizer Agent is a Streamlit-based web application that leverages Googl
 - Supplement insights using DuckDuckGo web search
 
 - Display video playback in the Streamlit UI
+# Installation
+
+## **Prerequisites**
+
+Ensure you have the following installed:
+
+- Python 3.8+
+
+- Pip (Python package manager)
